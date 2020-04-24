@@ -1,0 +1,39 @@
+<link rel="stylesheet" href="https://use.typekit.net/tos3gjw.css">
+
+@font-face {
+    font-family: 'Motter Ombra';
+    src: url('Motter-Ombra.woff2') format('woff2'),
+        url('Motter-Ombra.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+  /* font-family: 'futura-pt'; */
+  font-family: Motter-Ombra, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #0a9df2;
+  font-size: 4vw;
+  line-height: 2vh;
+  letter-spacing: .1vw;
+}
+
+p {
+  /* font-family: 'futura-pt-custom'; */
+  color: #4f5359;
+  font-size: 2vh;
+ 
+}
+
+div {
+
+  color: #4f5359;
+  max-width: 50vw;
+
+}
+
+.indent1 {
+  margin-left: 50vw;
+}
+
